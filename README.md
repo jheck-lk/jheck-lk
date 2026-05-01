@@ -28,7 +28,7 @@ Full-stack com o coração no back-end. Passo boa parte do tempo construindo aut
 <img align="left" alt="Python" title="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="HTML" title="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="C" title="C" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+<img align="left" alt="C" title="C" width="35px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
 <img align="left" alt="Assembly x86" title="Assembly x86" width="35px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=mldPmcCMMrFh&format=png&color=000000"/>
 <img align="left" alt="Git" title="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
