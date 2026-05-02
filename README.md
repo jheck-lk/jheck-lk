@@ -75,18 +75,6 @@ Full-stack com o coração no back-end. Passo boa parte do tempo construindo aut
 
 [![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
----
-
-## 🐍 Contribuições
-
-<img alt="snake animation" src="https://raw.githubusercontent.com/jheck-lk/jheck-lk/output/snake-dark.svg"/>
-
----
-
-## 📈 Atividade
-
-[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=jheck-lk&bg_color=1a1b27&color=5937CC&line=07e9a5&point=a78bfa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
